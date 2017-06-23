@@ -57,3 +57,7 @@ D:\Spiele\Steam\SteamApps\common\RimWorld\Mods\YaWH40Km-Public_A17\Assemblies\Fa
 D:\Spiele\Steam\SteamApps\common\RimWorld\Mods\FactionColors_1.4\Source\FactionCOlors\Assembly_Races\obj\Debug\FactionColors.dll
 D:\Spiele\Steam\SteamApps\common\RimWorld\Mods\FactionColors_1.4\Assemblies\FactionColors.dll.config
 D:\Spiele\Steam\SteamApps\common\RimWorld\Mods\FactionColors_1.4\Assemblies\FactionColors.dll
+D:\Modding\rimworld\FactionColors\FactionColors\Assemblies\FactionColors.dll.config
+D:\Modding\rimworld\FactionColors\FactionColors\Assemblies\FactionColors.dll
+D:\Modding\rimworld\FactionColors\FactionColors\Source\FactionCOlors\Assembly_Races\obj\Debug\FactionColors.csprojResolveAssemblyReference.cache
+D:\Modding\rimworld\FactionColors\FactionColors\Source\FactionCOlors\Assembly_Races\obj\Debug\FactionColors.dll

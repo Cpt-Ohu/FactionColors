@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <WorldObjectDef>
+    <defName>PlayerFactionStoryTracker</defName>    
+    <worldObjectClass>FactionColors.PlayerFactionStoryTracker</worldObjectClass>
+<description>FactionColors Story Tracker. This shouldn't be visible</description>
+    <canHaveFaction>false</canHaveFaction>
+	<selectable>false</selectable>
+	<neverMultiSelect>true</neverMultiSelect>
+	<useDynamicDrawer>true</useDynamicDrawer>
+    <expandingIcon>false</expandingIcon>
+    <texture>World/WorldObjects/Caravan</texture>
+  </WorldObjectDef>
+
+
+  
+</Defs>
